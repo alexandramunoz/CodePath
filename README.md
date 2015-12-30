@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'http://i.imgur.com/0kRA18Y.gifv' title=' Tip Calculator Video Walkthrough' width='' alt=' Tip CalculatorVideo Walkthrough' />
+<img src= 'http://i.imgur.com/0kRA18Y.gif' title=' Tip Calculator Video Walkthrough' width='' alt=' Tip CalculatorVideo Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
