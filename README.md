@@ -5,7 +5,7 @@
 
 Submitted by: **Alexandra Munoz**
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -24,12 +24,14 @@ The following **additional** features are implemented:
 - [X] Added app icon (also changed color of main screen to match icon color)
 - [X] Added app icon for spotlight
 - [X] Added ability to calculate total amount per person (used UIStepper to allow user to easily increment the number of people in a party and find out how much each person must pay). Minimum amount of people is 1
+- [X] Added launch screen 
+- [X] Made only text field to enter bill amount visible upon opening the app and the rest of the information is revealed once bill amount is entered
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'http://i.imgur.com/yClXRmH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'http://i.imgur.com/0kRA18Y.gif' title=' Tip Calculator Video Walkthrough' width='' alt=' Tip CalculatorVideo Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
