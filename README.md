@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I uploaded my original pre-work app to GitHub on December 27th but today (December 29th), when I tried to use GitHub desktop, I attempted to revert one of my submissions and it led to an error in the main storyboard. So I deleted my original repository and created a new one and submitted my new app with improvements. I am still working on the app to try to make more improvements to it. 
+I uploaded my original pre-work app to GitHub on December 27th but today (December 29th), when I tried to use GitHub desktop, I attempted to revert one of my submissions and it led to an error in the main storyboard. So I deleted my original repository and created a new one and submitted my new app with improvements. 
 
 ## License
 
